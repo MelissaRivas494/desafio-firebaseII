@@ -22,7 +22,7 @@ const logIn = async () => {
 
 <template>
   <div>
-    <h1>Login</h1>
+    <h1>Inicia Sesión</h1>
     <form @submit.prevent="logIn">
       <input v-model="email" type="email" placeholder="Email" required />
       <input v-model="password" type="password" placeholder="Password" required />

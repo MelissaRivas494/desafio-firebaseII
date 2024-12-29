@@ -28,7 +28,7 @@ const signUp = async () => {
 
 <template>
   <div>
-    <h1>Sign Up</h1>
+    <h1>Registrate</h1>
     <form @submit.prevent="signUp">
       <input v-model="email" type="email" placeholder="Email" required />
       <input v-model="password" type="password" placeholder="Password" required />
