@@ -1,6 +1,8 @@
-# firebase-auth
+# Desafio Firebase II
 
-This template should help get you started developing with Vue 3 in Vite.
+ - Enlace a la app con Firebase Hosting -> https://desafio-firebase-auth-40612.web.app
+
+
 
 ## Recommended IDE Setup
 
